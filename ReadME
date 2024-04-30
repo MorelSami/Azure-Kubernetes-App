@@ -1,0 +1,11 @@
+#Terraform manifest for our NodeJS Web Application infrastructure provisioning to Azure Cloud Services.
+
+<section>
+    <pre> 
+       <h5>Tech info:</h5>
+       <ul>
+          <li> Terraform</li>
+          <li> Azure Services (ACR, AKS, Resource Group)</li>
+       </ul>
+    </pre>
+</section> 
